@@ -10,5 +10,6 @@ control+k: 删除右侧内容
 command+delete: 删除左侧内容
 command+shift+v:打开markdown预览
 command+shift+n: 新建窗口
+alt+b: 打开默认浏览器
 ```
 
